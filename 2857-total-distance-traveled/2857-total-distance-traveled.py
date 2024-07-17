@@ -1,6 +1,11 @@
-class Solution:
-    def distanceTraveled(self, mainTank: int, additionalTank: int) -> int:
-        
+class Solution(object):
+    def distanceTraveled(self, mainTank, additionalTank):
+        """
+        :type mainTank: int
+        :type additionalTank: int
+        :rtype: int
+        """
+          
 
         count = 0
 
