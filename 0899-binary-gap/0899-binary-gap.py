@@ -4,11 +4,13 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
+        b = [int(x) for x in bin(n)[2:]]
+
         max_count = 0
         curr_count = 1
         start_count = False
 
-        for i in [int(x) for x in bin(n)[2:]]:
+        for i in b:
             if i :
                 if not start_count:
                     start_count = True
