@@ -5,8 +5,7 @@ class Solution(object):
         :type time: int
         :rtype: int
         """
-        n -= 1
-        if (time/(n))%2==0:
-            return 1 + (time%(n))
+        if (time/(n-1))%2==0:
+            return 1 + (time%(n-1))
         else:
-            return n - (time%(n))
+            return n - (time%(n-1))
