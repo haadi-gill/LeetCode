@@ -1,8 +1,7 @@
 from collections import defaultdict
-from math import comb
-class Solution:
-    def zeroFilledSubarray(self, nums: List[int]) -> int:
-        
+
+class Solution(object):
+    def zeroFilledSubarray(self, nums):
         """
         :type nums: List[int]
         :rtype: int
@@ -24,6 +23,6 @@ class Solution:
 
         for k,v in d.items():
             for x in range(1,k+1):
-                total += (k- x +1) * v
+                total += (k - x + 1) * v
 
         return total
