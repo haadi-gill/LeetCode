@@ -8,11 +8,7 @@ class Solution(object):
         a = Counter(nums1)#.most_common()
         b = Counter(nums2)#.most_common()
 
-        if len(a) > len(b):
-            a,b = b,a
-
-        # print(a)
-        # print(b)
+       
 
         c = []
 
