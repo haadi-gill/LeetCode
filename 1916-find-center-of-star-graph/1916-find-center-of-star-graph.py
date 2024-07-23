@@ -4,8 +4,14 @@ class Solution(object):
         :type edges: List[List[int]]
         :rtype: int
         """
-        o = []
-        for e in edges:
-            o.extend(e)
+        o = defaultdict(int)
+        n = len(edges)
 
-        return(Counter(o).most_common()[0][0])
+        for a in edges:
+            o[a[0]] += 1
+            if o[a[0]] == n:
+                return a[0]
+            o[a[1]] += 1
+            if o[a[1]] == n:
+                return a[1]
+            
