@@ -6,17 +6,19 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        d = defaultdict(int)
+        d = Counter(nums)
 
-        for n in nums:
-            d[n] += 1
+        print(d)
+        print(d.most_common())
+        print(sorted(d.most_common(), key = lambda x: x[0]))
+        print(sorted(sorted(d.most_common(), key = lambda x: -x[0]), key = lambda x: x[1]))
 
-        out = []
+        a = []
 
-        for k,v in sorted(d.items(), key=lambda item: (item[1], -item[0])):
- 
-            out += [k for i in range(v)]
-        
-        # print(sorted(d.items(), key=lambda item: (item[1], -item[0])))
-        # print(out)
-        return out
+        be = sorted(sorted(d.most_common(), key = lambda x: -x[0]), key = lambda x: x[1])
+
+        for b in be:
+            a.extend([b[0]]*b[1])
+
+        print(a)
+        return a
