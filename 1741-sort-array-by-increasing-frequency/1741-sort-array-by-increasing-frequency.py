@@ -8,10 +8,10 @@ class Solution(object):
         """
         d = Counter(nums)
 
-        print(d)
-        print(d.most_common())
-        print(sorted(d.most_common(), key = lambda x: x[0]))
-        print(sorted(sorted(d.most_common(), key = lambda x: -x[0]), key = lambda x: x[1]))
+        # print(d)
+        # print(d.most_common())
+        # print(sorted(d.most_common(), key = lambda x: x[0]))
+        # print(sorted(sorted(d.most_common(), key = lambda x: -x[0]), key = lambda x: x[1]))
 
         a = []
 
@@ -20,5 +20,5 @@ class Solution(object):
         for b in be:
             a.extend([b[0]]*b[1])
 
-        print(a)
+        # print(a)
         return a
