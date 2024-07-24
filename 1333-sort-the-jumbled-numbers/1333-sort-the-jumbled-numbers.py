@@ -11,6 +11,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        global m 
-        m = mapping
-        return sorted(nums, key=lambda x:translate(x))
+        # global m 
+        # m = mapping
+        # return sorted(nums, key=lambda x:translate(x))
+        return sorted(nums, key=lambda x:reduce(lambda total,i: (total*10)+i, [mapping[g] for g in map(int, str(x))]))
