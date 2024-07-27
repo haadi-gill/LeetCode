@@ -1,11 +1,6 @@
-class Solution(object):
-    def buyChoco(self, prices, money):
-        """
-        :type prices: List[int]
-        :type money: int
-        :rtype: int
-        """
-
+class Solution:
+    def buyChoco(self, prices: List[int], money: int) -> int:
+        
         minMon = -1
 
         n = len(prices)
