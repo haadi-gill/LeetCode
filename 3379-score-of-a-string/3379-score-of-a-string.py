@@ -4,4 +4,5 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        return sum([abs(ord(s[i])-ord(s[i+1])) for i in range(len(s)-1)])
+        m = [ord(c) for c in s]
+        return sum([abs(m[i] - m[i+1]) for i in range(len(s)-1)])
