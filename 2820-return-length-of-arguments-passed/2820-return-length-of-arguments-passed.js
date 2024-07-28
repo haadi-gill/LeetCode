@@ -3,7 +3,7 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
-    return Object.keys(args).length
+    return args.length
 };
 
 /**
