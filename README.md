@@ -379,6 +379,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/haadi-gill/LeetCode/tree/master/0273-integer-to-english-words) |
+| [2128-reverse-prefix-of-word](https://github.com/haadi-gill/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Recursion
 |  |
 | ------- |
@@ -423,4 +424,8 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Two Pointers
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/haadi-gill/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
