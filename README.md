@@ -407,4 +407,20 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/haadi-gill/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Array
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
