@@ -413,6 +413,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/haadi-gill/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/haadi-gill/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3533-snake-in-matrix](https://github.com/haadi-gill/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Stack
