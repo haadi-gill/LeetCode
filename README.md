@@ -413,6 +413,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/haadi-gill/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3533-snake-in-matrix](https://github.com/haadi-gill/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
@@ -431,4 +432,8 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/haadi-gill/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+## Hash Table
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/haadi-gill/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
