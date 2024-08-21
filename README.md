@@ -375,6 +375,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/haadi-gill/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1448-maximum-69-number](https://github.com/haadi-gill/LeetCode/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -437,4 +438,8 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/haadi-gill/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/haadi-gill/LeetCode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
