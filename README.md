@@ -413,6 +413,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/haadi-gill/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/haadi-gill/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/haadi-gill/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -434,6 +435,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/haadi-gill/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/haadi-gill/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
@@ -444,4 +446,8 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/haadi-gill/LeetCode/tree/master/1448-maximum-69-number) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/haadi-gill/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
