@@ -382,6 +382,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | [0273-integer-to-english-words](https://github.com/haadi-gill/LeetCode/tree/master/0273-integer-to-english-words) |
 | [2128-reverse-prefix-of-word](https://github.com/haadi-gill/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/haadi-gill/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3533-snake-in-matrix](https://github.com/haadi-gill/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Recursion
 |  |
@@ -418,6 +419,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | [1319-unique-number-of-occurrences](https://github.com/haadi-gill/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2232-adding-spaces-to-a-string](https://github.com/haadi-gill/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/haadi-gill/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/haadi-gill/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3533-snake-in-matrix](https://github.com/haadi-gill/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -454,4 +456,8 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/haadi-gill/LeetCode/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
