@@ -419,6 +419,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | [1319-unique-number-of-occurrences](https://github.com/haadi-gill/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2232-adding-spaces-to-a-string](https://github.com/haadi-gill/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/haadi-gill/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/haadi-gill/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/haadi-gill/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -459,5 +460,6 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 ## Prefix Sum
 |  |
 | ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/haadi-gill/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
