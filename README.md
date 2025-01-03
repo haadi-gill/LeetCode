@@ -380,6 +380,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/haadi-gill/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/haadi-gill/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2128-reverse-prefix-of-word](https://github.com/haadi-gill/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/haadi-gill/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -417,6 +418,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | ------- |
 | [0088-merge-sorted-array](https://github.com/haadi-gill/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/haadi-gill/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/haadi-gill/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2232-adding-spaces-to-a-string](https://github.com/haadi-gill/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/haadi-gill/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -462,4 +464,12 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | ------- |
 | [2358-number-of-ways-to-split-array](https://github.com/haadi-gill/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/haadi-gill/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/haadi-gill/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
