@@ -384,6 +384,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | [2128-reverse-prefix-of-word](https://github.com/haadi-gill/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/haadi-gill/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2886-faulty-keyboard](https://github.com/haadi-gill/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3533-snake-in-matrix](https://github.com/haadi-gill/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Recursion
 |  |
@@ -443,6 +444,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2232-adding-spaces-to-a-string](https://github.com/haadi-gill/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2886-faulty-keyboard](https://github.com/haadi-gill/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/haadi-gill/LeetCode/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/haadi-gill/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
