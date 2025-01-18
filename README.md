@@ -406,6 +406,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/haadi-gill/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3226-minimum-number-game](https://github.com/haadi-gill/LeetCode/tree/master/3226-minimum-number-game) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +427,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | [2691-count-vowel-strings-in-ranges](https://github.com/haadi-gill/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/haadi-gill/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/haadi-gill/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3226-minimum-number-game](https://github.com/haadi-gill/LeetCode/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/haadi-gill/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
@@ -441,6 +443,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/haadi-gill/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2232-adding-spaces-to-a-string](https://github.com/haadi-gill/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3226-minimum-number-game](https://github.com/haadi-gill/LeetCode/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/haadi-gill/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -461,6 +464,7 @@ LXBob25lLW51bWJlcikgfAo8IS0tLUxlZXRDb2RlIFRvcGljcyBFbmQtLT4=
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/haadi-gill/LeetCode/tree/master/0088-merge-sorted-array) |
+| [3226-minimum-number-game](https://github.com/haadi-gill/LeetCode/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
