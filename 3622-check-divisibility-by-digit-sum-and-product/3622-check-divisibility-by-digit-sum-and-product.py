@@ -1,14 +1,12 @@
 class Solution:
     def checkDivisibility(self, n: int) -> bool:
-        digits = []
         ncopy = n
-        while(n>0):
-            digits.append(int(n%10))
-            n = int(n/10)
-        
-        sumDigits = sum(digits)
+        sumDigits = 0
         prodDigits = 1
-        for i in digits:
-            prodDigits *= i
+
+        while(ncopy>0):
+            sumDigits += ncopy%10
+            prodDigits *= ncopy%10 
+            ncopy = int(ncopy/10)
         
-        return ncopy % (sumDigits + prodDigits) == 0
+        return n % (sumDigits + prodDigits) == 0
