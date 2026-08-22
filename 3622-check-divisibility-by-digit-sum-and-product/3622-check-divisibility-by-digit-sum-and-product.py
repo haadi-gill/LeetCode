@@ -7,6 +7,6 @@ class Solution:
         while(ncopy>0):
             sumDigits += ncopy%10
             prodDigits *= ncopy%10 
-            ncopy = int(ncopy/10)
+            ncopy //= 10
         
         return n % (sumDigits + prodDigits) == 0
